@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fei-Away/Codex-Dream-Skin/releases">Releases</a>
+  <a href="https://github.com/houyuhang915-sudo/Codex-Dream-Skin/releases">Releases</a>
   ·
   <a href="./docs/theme-format.md">Theme format</a>
   ·
@@ -66,7 +66,7 @@ These images were captured from real Codex pages. Conversation content, task nam
 
 ## Install
 
-Download the platform package from [Releases](https://github.com/Fei-Away/Codex-Dream-Skin/releases).
+Download the platform package from [Releases](https://github.com/houyuhang915-sudo/Codex-Dream-Skin/releases).
 
 ### macOS
 
@@ -138,7 +138,7 @@ The Skill can generate a new image or process a supplied image. It creates a `24
 ## Build From Source
 
 ```bash
-git clone https://github.com/Fei-Away/Codex-Dream-Skin.git
+git clone https://github.com/houyuhang915-sudo/Codex-Dream-Skin.git
 cd Codex-Dream-Skin
 ```
 
